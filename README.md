@@ -9,7 +9,7 @@
 - **تحليل البيانات:** Excel, VBA, Power Query, Power BI, Python
 - **أتمتة المهام:** AutoHotkey, n8n, Google Apps Script
 - **تطبيقات الويب (PWA):** Supabase, HTML, CSS, JavaScript
-- **التدريب التقني:** Excel, VBA, Power BI, أدوات الذكاء الاصطناعي
+- **التدريب التقني:** Excel, VBA, Power BI, Ai Tools
 
 ### التواصل | Contact
 
